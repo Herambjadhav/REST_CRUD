@@ -1,5 +1,5 @@
 # REST_CRUD
-JAVA+SPRINGS+REST+MYSQL+CRUD+MAVEN
+JAVA+SPRINGS+REST+MYSQL+CRUD+MAVEN+JSON
 
 A simple Java web application to perform basic CRUD (CREATE, READ, UPDATE and DELETE) operations with MySql DB.
 This application produces and consumes JSON data.
